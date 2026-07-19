@@ -100,7 +100,7 @@ gpg --import barrel-public.key
 gpg --verify Barrel_0.1.0_amd64.deb.sig Barrel_0.1.0_amd64.deb
 ```
 
-The public key is available on the [documentation site](https://barrel.ppxl.xyz/barrel-public.key).
+The public key is available on the [documentation site](https://barrel.pxxl.run/barrel-public.key).
 
 ---
 
