@@ -1,18 +1,18 @@
 {
-  "version": "0.1.6",
-  "pub_date": "2026-08-04T22:31:46Z",
+  "version": "0.1.7",
+  "pub_date": "2026-08-05T15:56:47Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHorMG56NEdQZkxYdkFKZjZxek9OcTl0YmFiaWoxeGpYb3czOFlwaWQwL2F5Y05CTDR0ek0yNFBna0dnMXdpVGpuOWRKclAvV0tyU0RTRDlsdHNDdjg1V2xUb3c1Z3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODgyNzAyCWZpbGU6QmFycmVsXzAuMS42X2FtZDY0LkFwcEltYWdlCkM1WE9EcFhHdzZsdnBESmZwdHlLM1ZucFUwdEE0eFJVK2VVSmk3OEY2NTNzSkVUTXJFQ0p3TzRudk1ONUcraWhwV3d6ekVTVEJ6QzRRRXkwSFVMbkR3PT0K",
-      "url": "https://github.com/DghostNinja/barrel-releases/releases/download/v0.1.6/Barrel_0.1.6_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHorMG56NEdQZk1SYkF2NlF6eEU5VExidkdtbTN3QU9YNlhwTUxXUENwTkJja05RZ1BIaVlVR2F1WWZWZnVocXNSb2I3YTRjWDd6MERKczZLaWp4SkViZXFsZjZNcEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQ1NDAzCWZpbGU6QmFycmVsXzAuMS43X2FtZDY0LkFwcEltYWdlCjBPd1JFYkFGdW1acWswWnBwTGJkQzAwTWtrcjVxb1dka0FMY0c2OEVuZ2RHVzZwVnVMa3NzS1JVVWtPTDVkL1ZoZzRRenVYQ3VmbFlqVEFhQVpzS0F3PT0K",
+      "url": "https://github.com/DghostNinja/barrel-releases/releases/download/v0.1.7/Barrel_0.1.7_amd64.AppImage"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHorMG56NEdQZkdyQm83MFFCWFJURXp3azR1Q1IydWc1RkMyWUhaMXRuVHBhQUJqRlp6NXQwY3RUa1hBMUFGZHpqdlpVRXlkWDljdkRTSjZCcEIzVy95clZLbm5hd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODgyNzAyCWZpbGU6QmFycmVsXzAuMS42X2FhcmNoNjQuZG1nCkFsVENpQmo1cXhCcEdQZ1lRWnNEVU9rSzN4a1VOcmszZE00NTN6NGtKSXJTczVEVDZjWkprUysrK09tU0hKME1RUW1qbEVXOUpGT0JDby9XbmR6eUFnPT0K",
-      "url": "https://github.com/DghostNinja/barrel-releases/releases/download/v0.1.6/Barrel_0.1.6_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHorMG56NEdQZkY0c2Rod2RVeGFGWmVqZ3YrS3NHL0w2QkNnaC9YOUswczhiWmI4a0ZuQlJCdkxWR1hTTVFYaDJ4VDV1OVU4NHphMHVuTW9GdTRVa1JvQlpqUmx5K0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQ1NDAzCWZpbGU6QmFycmVsXzAuMS43X2FhcmNoNjQuZG1nCk9kMFEvai9XN3NnUHFXSFlSQlBUUys0bktSZHpFaFJVMlN2Yk9sOXBsbW1RWlgrcmFKem9iUXVHWHlDNkFBSm80TkJuWUdRRGxITHcxWmtQTkRabEFBPT0K",
+      "url": "https://github.com/DghostNinja/barrel-releases/releases/download/v0.1.7/Barrel_0.1.7_aarch64.dmg"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHorMG56NEdQZkdBWmI0d2FHcCtDenpqb0RhamhoeHo3QVpwZ0tsMEFpT3BvR2FodTBHcWJ4Y1RpQTJObmNmUTdPTUNuWXB3TjlESXVsaUhaNlJ2R3lMSHdjWEVES1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODgyNzAxCWZpbGU6QmFycmVsXzAuMS42X3g2NF9lbi1VUy5tc2kKamdkN2IvU3NzSnZYcjNvQ1QwOGtBWG9sZHh6M3N2dEU2bWNMaUhMT1hGa2RvRlhzU3dkeUVDSGJIQml3U2w1VTNXSXdHQkFHK0tzb091aCtaMmRFQUE9PQo=",
-      "url": "https://github.com/DghostNinja/barrel-releases/releases/download/v0.1.6/Barrel_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHorMG56NEdQZkw4TWFFR1ZoZTNwUjRMbXZZanhRT2NPc3kxNERlOU5lV1h6bUJRTCtUNXhtVWZlUG9TQlJDL2poQyt5cXl1d3N3MS9UdU1oandPK1JLWkxYQ2thTGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQ1NDAyCWZpbGU6QmFycmVsXzAuMS43X3g2NF9lbi1VUy5tc2kKaGZTaHBLMkhsVGFqNXZsemd0UG9WajZUT2xvSlpWL3NiQW9RMTdmV3NpR0lDOXdodjZieDl0R2VXcE5RRElCRGpkVFJ0bjlnQ3NvZ3Qvc05XR29xQkE9PQo=",
+      "url": "https://github.com/DghostNinja/barrel-releases/releases/download/v0.1.7/Barrel_0.1.7_x64_en-US.msi"
     }
   }
 }
