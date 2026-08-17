@@ -20,6 +20,7 @@ api.registerTab({
     container.appendChild(devicesBtn);
 
     const output = api.ui.outputPane();
+    output.style.marginTop = "10px";
     container.appendChild(output);
 
     devicesBtn.addEventListener("click", async () => {
@@ -34,13 +35,19 @@ api.registerTab({
       }
     });
 
+    const countRow = document.createElement("div");
+    countRow.style.display = "flex";
+    countRow.style.alignItems = "center";
+    countRow.style.gap = "10px";
+    countRow.style.marginTop = "8px";
     const countBtn = api.ui.button({
       label: "Bump counter",
     });
-    container.appendChild(countBtn);
     let count = parseInt(api.storage.get("count") || "0", 10);
     const label = api.ui.statusPill("count: " + count, "ok");
-    container.appendChild(label);
+    countRow.appendChild(countBtn);
+    countRow.appendChild(label);
+    container.appendChild(countRow);
     countBtn.addEventListener("click", () => {
       count += 1;
       api.storage.set("count", String(count));
