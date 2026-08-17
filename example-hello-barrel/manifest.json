@@ -1,0 +1,13 @@
+{
+  "id": "example-hello-barrel",
+  "name": "Hello Barrel",
+  "version": "1.0.0",
+  "author": "Barrel",
+  "description": "Demo plugin. Shows a custom tab that lists connected devices and runs a safe adb command.",
+  "entry": "main.js",
+  "tab": {
+    "label": "Hello Barrel"
+  },
+  "permissions": ["device.read", "adb.exec", "storage"],
+  "private": false
+}
