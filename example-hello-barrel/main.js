@@ -1,5 +1,5 @@
 // Hello Barrel, demo plugin for the Barrel Plugin SDK.
-// Uses only the BarrelPlugin global (frozen API). No direct invoke/webview access.
+// Uses only the BarrelPlugin global (frozen API). No direct invoke/webview access
 
 const api = window.BarrelPlugin;
 
