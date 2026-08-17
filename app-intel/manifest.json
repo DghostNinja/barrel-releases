@@ -1,0 +1,13 @@
+{
+  "id": "app-intel",
+  "name": "App Intel",
+  "version": "1.0.0",
+  "author": "Barrel",
+  "description": "One-click recon dashboard for any installed app: permissions, exported components, security flags, and key data files.",
+  "entry": "main.js",
+  "tab": {
+    "label": "App Intel"
+  },
+  "permissions": ["adb.exec:full", "storage"],
+  "private": false
+}
